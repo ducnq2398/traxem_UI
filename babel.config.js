@@ -11,5 +11,7 @@ module.exports = {
       },
     ],
     ["@babel/plugin-proposal-optional-catch-binding"],
+    ['react-native-paper/babel'],
+    ['react-native-reanimated/plugin']
   ],
 }
